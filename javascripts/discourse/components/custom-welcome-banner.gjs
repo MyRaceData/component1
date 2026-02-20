@@ -5,12 +5,7 @@ export default class CustomWelcomeBanner extends Component {
   @service currentUser;
 
   <template>
-    <div class="custom-welcome-banner">
-      {{#if this.currentUser}}
-        Welcome back @{{this.currentUser.username}}.
-      {{else}}
-        Welcome to our my race data.
-      {{/if}}
+        Welcome to my race data.
     </div>
   </template>
 }
