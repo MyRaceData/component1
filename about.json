@@ -1,8 +1,8 @@
 w Rowe{
-  "name": "Custom Components",
+  "name": "Andys Custom Component",
   "component": true,
-  "authors": "Jay Pfaffman",
-  "about_url": "https://github.com/literatecomputing/discourse-custom-components",
+  "authors": "Andrew Rowe",
+  "about_url": "https://github.com/MyRaceData/component1",
   "license_url": "https://github.com/literatecomputing/discourse-custom-components/tree/main?tab=MIT-1-ov-file#readme",
   "learn_more": "TODO",
   "theme_version": "0.0.1",
