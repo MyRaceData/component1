@@ -9,5 +9,6 @@ a.btn-custom.test-button {
     background-color: red;
   color: white;
   font-size: 2rem;
-  align-items: center;
+  display: flex;
+  justify-content: center;
 }
