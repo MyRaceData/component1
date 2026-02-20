@@ -5,7 +5,8 @@ export default class CustomWelcomeBanner extends Component {
   @service currentUser;
 
   <template>
-        Welcome to my race data.
+    <div class="custom-welcome-banner">
+      welcome to my race data
     </div>
   </template>
 }
