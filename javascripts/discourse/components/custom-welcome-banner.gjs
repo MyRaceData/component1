@@ -6,7 +6,7 @@ export default class CustomWelcomeBanner extends Component {
 
   <template>
     <div class="custom-welcome-banner">
-      welcome to my race data
+      Latest News from My Race Data
     </div>
   </template>
 }
