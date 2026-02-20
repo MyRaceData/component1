@@ -9,7 +9,7 @@ export default class CustomWelcomeBanner extends Component {
       {{#if this.currentUser}}
         Welcome back @{{this.currentUser.username}}.
       {{else}}
-        Welcome to our community.
+        Welcome to our my race data.
       {{/if}}
     </div>
   </template>
