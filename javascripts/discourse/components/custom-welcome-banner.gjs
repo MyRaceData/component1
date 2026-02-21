@@ -12,6 +12,7 @@ export default class CustomWelcomeBanner extends Component {
     <p>
     My Race Data is Your race team's portal
     </p>
+<img style="float: right; margin-right: 5px; padding-bottom: 20px;" src="./images/tbv1.jpg" alt="trakbox" width="200">
     </div>
   </template>
 }
